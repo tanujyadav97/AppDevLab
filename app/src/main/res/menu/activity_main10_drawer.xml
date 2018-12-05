@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/lab1"
+            android:title="Lab 1" />
+        <item
+            android:id="@+id/lab2"
+            android:title="Lab 2" />
+        <item
+            android:id="@+id/lab3"
+            android:title="Lab 3" />
+        <item
+            android:id="@+id/lab4"
+            android:title="Lab 4" />
+        <item
+            android:id="@+id/lab5"
+            android:title="Lab 5" />
+        <item
+            android:id="@+id/lab6"
+            android:title="Lab 6" />
+        <item
+            android:id="@+id/lab7"
+            android:title="Lab 7" />
+        <item
+            android:id="@+id/lab8"
+            android:title="Lab 8" />
+        <item
+            android:id="@+id/lab9"
+            android:title="Lab 9" />
+        <item
+            android:id="@+id/lab10"
+            android:title="Lab 10" />
+        <item
+            android:id="@+id/lab11"
+            android:title="Lab 11" />
+    </group>
+
+</menu>
